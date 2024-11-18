@@ -1,1 +1,2 @@
-# module-6-API-challange
+# python-api-challenge
+API assignment week 6
